@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 
 
-public class Inteiro
+public class DivisaodeResto
 {
     public static void main(String[] args)
     {
